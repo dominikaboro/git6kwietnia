@@ -8,10 +8,10 @@ Aby uzywac nalezy:
 
 
 ## Moje ulubione testerskie narzedzia:
--Selenium webdriver
--Robot Framework
--Appium
--Jenkins
+- Selenium webdriver
+- Robot Framework
+- Appium
+- Jenkins
 
 
 Copyright by TESTER TEAM
